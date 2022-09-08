@@ -1,0 +1,220 @@
+ * {/* CSS RESET */
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+}
+
+body {
+    background-image: url(img/fundopata.webp);
+    background-repeat: repeat;
+}
+
+header {
+    background-color: rgb(210, 234, 248);
+    border: 1px solid #000;
+    width: 1000px;
+    height: 170px;
+    border-radius: 3px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.btnHeader {
+    border-radius: 3px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(18, 122, 190);
+    color: rgb(14, 13, 13);
+    margin-right: 16px;
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;    
+}
+
+
+#logoHeader {
+    border: 0px solid #000;
+    height: 132px;
+    width: 122px;
+    margin: 12px;
+    border-radius: 20px;
+    background-image: url(img/logo.JPG);
+    background-size: 138px 130px;
+    float: left;
+}
+
+#secHeader {
+    background-color: rgb(13, 201, 226);
+    border: 1px solid #000;
+    height: 40px;
+    width: 450px;
+    margin: 12px;
+    border-radius: 3px;
+    float: right;
+    text-align: center;
+}
+
+.href {
+    color: #fff;
+}
+
+nav {
+    border: 0px solid;
+    width: 1000px;
+    height: 67px;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: rgb(50, 122, 230) -2px 0, rgb(0, 34, 128) 2px 0;
+    font-size: 16pt;
+    text-align: center;
+    margin-top: 13px;
+}
+
+#secNav1 {
+    background-color: #fff;
+    border: 1px solid #000;
+    width: 491px;
+    height: 66px;
+    float: left;
+    border-radius: 3px;
+}
+
+#secNav2 {
+    background-color: #fff;
+    border: 1px solid #000;
+    width: 491px;
+    height: 66px;
+    float: right;
+    border-radius: 3px;
+}
+
+main {
+    border: 0px solid;
+    height: 440px;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 17px;
+}
+
+#aside1 {
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 240px;
+    height: 438px;
+    float: left;
+    margin-right: 10px;
+}
+
+#secAside1 {
+    background-image: url(img/banho\ e\ tosa.webp);
+    background-size: 200px 200px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    height: 195px;
+    width: 195px;
+    margin: 0 auto;
+    margin-top: 11px;
+}
+
+article {
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 490px;
+    height: 438px;
+    float: left;
+    margin-left:10px;
+    margin: 0 auto;
+}
+
+#secArticle1 {
+    background-image: url(img/propaganda.jpg);
+    background-size: 225px 128px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 225px;
+    height: 128px;
+    margin-top: 9px;
+    margin-left: 10px;
+    float: left;
+}
+
+#secArticle2 {
+    background-image: url(img/petshop.jpg);
+    background-size: 225px 128px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 225px;
+    height: 128px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+}
+
+#articleCenter {
+    background-image: url(img/prom.webp);
+    background-size: 445px 158px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 467px;
+    height: 128px;
+    margin-top: 15px;
+    margin-left: 10px;
+    float: left;
+}
+
+#secArticle3 {
+    background-image: url(img/petshop.jpg);
+    background-size: 225px 128px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 225px;
+    height: 128px;
+    margin-top: 15px;
+    margin-left: 10px;
+    float: left;
+}
+
+#secArticle4 {
+    background-image: url(img/propaganda.jpg);
+    background-size: 225px 128px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 225px;
+    height: 128px;
+    margin-top: 15px;
+    margin-right: 10px;
+    float: right;
+}
+
+#aside2 {
+    background-image: url(img/vet.jpg);
+    background-size: 240px 438px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 240px;
+    height: 438px;
+    float: left;
+    margin-left: 10px;
+}
+
+footer {
+    background-image: url(img/footerazul.jpg);
+    background-image: 500px 300px;
+    border: 1px solid #000;
+    border-radius: 3px;
+    margin: 10px 0 0 0;
+    height: 100px;
+    width: 994px;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
